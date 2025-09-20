@@ -45,7 +45,7 @@ This project is a simple REST API built using C#. It provides weather forecast d
    ```
 
 ### API Endpoints
-
+- GEt /root : Returns heslth check message
 - `GET /weatherforecast`: Returns a list of weather forecasts.
 
 ## License
